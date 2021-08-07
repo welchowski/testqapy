@@ -7,6 +7,7 @@ def calc(x):
 
 
 
+
 link = "http://suninjuly.github.io/alert_accept.html"
 
 try:
